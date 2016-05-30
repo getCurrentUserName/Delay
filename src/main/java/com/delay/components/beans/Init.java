@@ -13,7 +13,7 @@ import javax.annotation.PostConstruct;
 
 /**
  * Created by LucidMinds on 19.05.16.
- * package com.perishable.components.beans;
+ * package com.delay.components.beans;
  */
 @Service
 @PropertySource(value = {"classpath:users.properties"})

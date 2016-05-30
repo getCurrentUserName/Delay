@@ -4,7 +4,7 @@ import java.util.UUID;
 
 /**
  * Created by LucidMinds on 20.05.16.
- * package com.perishable.domain.dto;
+ * package com.delay.domain.dto;
  */
 public class SalesDTO {
 

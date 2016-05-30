@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * Created by LucidMinds on 18.05.16.
- * package com.perishable.web.views.user;
+ * package com.delay.web.views.user;
  */
 @Controller
 @Secured({Roles.ROLE_ADMIN, Roles.ROLE_USER})

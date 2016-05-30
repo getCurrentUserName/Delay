@@ -18,7 +18,7 @@ import java.util.UUID;
 
 /**
  * Created by LucidMinds on 18.05.16.
- * package com.perishable.domain.entities.product;
+ * package com.delay.domain.entities.product;
  */
 @Entity
 @Table(name = "product" + "_table")

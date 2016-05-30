@@ -14,7 +14,7 @@ import java.util.UUID;
 
 /**
  * Created by LucidMinds on 18.05.16.
- * package com.perishable.domain.entities.category;
+ * package com.delay.domain.entities.category;
  */
 @Entity
 @Table(name = "subcategory" + "_table")

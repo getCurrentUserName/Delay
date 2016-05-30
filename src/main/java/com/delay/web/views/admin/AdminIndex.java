@@ -18,7 +18,7 @@ import java.util.UUID;
 
 /**
  * Created by LucidMinds on 18.05.16.
- * package com.perishable.web.views.admin;
+ * package com.delay.web.views.admin;
  */
 @Controller
 @RequestMapping(value = "admin")

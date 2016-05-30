@@ -2,7 +2,7 @@ package com.delay.components.enums;
 
 /**
  * Created by LucidMinds on 19.05.16.
- * package com.perishable.components.enums;
+ * package com.delay.components.enums;
  */
 public enum ProductStatus {
 

@@ -15,7 +15,7 @@ import java.util.UUID;
 
 /**
  * Created by LucidMinds on 20.05.16.
- * package com.perishable.services;
+ * package com.delay.services;
  */
 @Service
 public class SalesService extends BaseService {

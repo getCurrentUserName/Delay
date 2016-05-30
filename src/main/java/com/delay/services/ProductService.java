@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * Created by LucidMinds on 19.05.16.
- * package com.perishable.services;
+ * package com.delay.services;
  */
 @Service
 public class ProductService extends ProductDAO {

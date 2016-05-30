@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * Created by LucidMinds on 18.05.16.
- * package com.perishable.services;
+ * package com.delay.services;
  */
 @Service
 public class CategoryService extends BaseService {

@@ -24,7 +24,7 @@ import java.util.UUID;
 
 /**
  * Created by LucidMinds on 18.05.16.
- * package com.perishable.web.api.v1;
+ * package com.delay.web.api.v1;
  */
 @RestController
 @RequestMapping(value = "api/v1")
